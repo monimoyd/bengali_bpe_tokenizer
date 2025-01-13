@@ -9,7 +9,6 @@ The spaces app for inputting bengali sentence is as below:
 Output Compression Ratio: 3.8125
 
 Vocabulary size: 5000
-Number of merges: 
 
 ## Base Vocabulary For Bengali
 -  List all the unicode characters for Bengali Language
@@ -20,7 +19,7 @@ Number of merges:
 - Collect the Bengali corpus data from kaggle
 https://www.kaggle.com/code/sayankr007/bengali-text-generation-and-language-modelling/input
 
-- Make a regex pattern to separate bengali words including spaces
+- Based on https://www.unicode.org/charts/PDF/U0980.pdf the bengali characters can have unicode values between 0980 to 09FF. Hence, Made a regex pattern to separate bengali words including spaces
     ```
     r""" ?[\u0980-\u09FF]+| ?[^\s]+|\s+(?!\S)|\s+"""
     ```
