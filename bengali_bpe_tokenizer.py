@@ -88,8 +88,8 @@ class BengaliBPETokenizer:
         for i in range(num_merges):
             pairs = self._get_stats(words)
             if i % 100 == 0:
-                print(f" After iteration: {i+1}  number of pairs: {len(pairs)}")
-                
+                print(f" Number of merges: {i} ")
+
             if not pairs:
                 break
 
