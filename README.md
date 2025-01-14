@@ -38,54 +38,103 @@ https://www.kaggle.com/code/sayankr007/bengali-text-generation-and-language-mode
 
 Maximum num_merges :  4865
  Number of merges: 0 
+ 
  Number of merges: 100 
+ 
  Number of merges: 200 
+ 
  Number of merges: 300 
+ 
  Number of merges: 400 
+ 
  Number of merges: 500 
+ 
  Number of merges: 600 
+ 
  Number of merges: 700 
+ 
  Number of merges: 800 
+ 
  Number of merges: 900 
+ 
  Number of merges: 1000 
+ 
  Number of merges: 1100 
+ 
  Number of merges: 1200 
+ 
  Number of merges: 1300 
+ 
  Number of merges: 1400 
+ 
  Number of merges: 1500 
+ 
  Number of merges: 1600 
+ 
  Number of merges: 1700 
+ 
  Number of merges: 1800 
+ 
  Number of merges: 1900 
+ 
  Number of merges: 2000 
+ 
  Number of merges: 2100 
+ 
  Number of merges: 2200 
+ 
  Number of merges: 2300 
+ 
  Number of merges: 2400 
+ 
  Number of merges: 2500 
+ 
  Number of merges: 2600 
+ 
  Number of merges: 2700 
+ 
  Number of merges: 2800 
+ 
  Number of merges: 2900 
+ 
  Number of merges: 3000 
+ 
  Number of merges: 3100 
+ 
  Number of merges: 3200 
+ 
  Number of merges: 3300 
+ 
  Number of merges: 3400 
+ 
  Number of merges: 3500 
+ 
  Number of merges: 3600 
+ 
  Number of merges: 3700 
+ 
  Number of merges: 3800 
+ 
  Number of merges: 3900 
+ 
  Number of merges: 4000 
+ 
  Number of merges: 4100 
+ 
  Number of merges: 4200 
+ 
  Number of merges: 4300 
+ 
  Number of merges: 4400 
+ 
  Number of merges: 4500 
+ 
  Number of merges: 4600 
+ 
  Number of merges: 4700 
+ 
  Number of merges: 4800 
+ 
 Time taken to train: 15928.174258708954 seconds
 
 
